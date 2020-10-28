@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Guru</title>
+	
+<style>
+    input
+	{
+	  width: 700px;
+	  height: 35px;
+	  border-radius: 5px
+	 
+	}
+	#searchbtn
+	{
+	  width: 150px;
+	  height: 40px;
+	  border-radius: 5px
+	  border: 1px solid blue;
+	}
+</style>
+
+	
+</head>
+<body>
+
+<!--by aryan ingle -->
+<br><br><br><br><br>
+<center><img src="https://lh4.googleusercontent.com/oTymOh27TByeqpYwEj_SkuyspuM8hFFXSvKaYvWCelL1gCeSQnSvlAoeSYwJMMlAP-IoJw"></center>
+<br>
+<center><script async src="https://cse.google.com/cse.js?cx=247e0b3ab57f9013a"></script>
+<div class="gcse-search"></div>
+<br><br>
+
+</body>
+</html>
